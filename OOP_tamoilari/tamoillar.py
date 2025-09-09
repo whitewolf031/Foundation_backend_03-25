@@ -38,20 +38,19 @@
 # # __ - 100% blocklandi
 # # _ - 50% keyinchalik block lanadi
 # #
-# # class Parrot:
-# #     def __init__(self):
-# #         self.__voice = "Salom"
-# #         self.name = "Ozod"
-# #
-# #     def speak(self):
-# #         return self.__voice
-# #
-# #     def check_info(self):
-# #         return self.speak()
-# #
-# #
-# # obj = Parrot()
-# # print(obj.speak())
+# class Parrot:
+#     def __init__(self):
+#         self.__voice = "Salom"
+#         self.name = "Ozod"
+#
+#     def speak(self):
+#         return self.__voice
+#
+#     def check_info(self):
+#         return self.speak()
+
+# obj = Parrot()
+# print(obj.speak())
 #
 # # 1. Meros olish (inheritence)
 # # Vazifasi: Bir class dan 2 class ga ma'lumot uzatish

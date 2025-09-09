@@ -1,4 +1,4 @@
-# buitins methods - bu interpretator bilan birga o'rnatilgan kutubxonalarga aytiladi
+# builtings methods - bu interpretator bilan birga o'rnatilgan kutubxonalarga aytiladi
 # functionalniy programming - map, reduce, filter har doim lambda funksiya
 # orqali bajariladigan amallarga aytiladi
 # map - bu
