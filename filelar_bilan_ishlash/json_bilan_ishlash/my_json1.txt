@@ -1,0 +1,5 @@
+{
+    "name": "Ziyobek",
+    "age": 12,
+    "Holati": "O'g'ir pastga qarab ketyapdi"
+}
